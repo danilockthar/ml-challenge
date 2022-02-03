@@ -122,4 +122,5 @@ const Typo = styled.p`
 
 const LittleDecimal = styled.p`
 margin: 5px 0 0 1px;
+
 `
